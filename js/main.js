@@ -2,7 +2,7 @@ require.config({
 
     　　　　paths: {
 
-        　　　　　　"jquery": "jquery-1.10.1.min.js"
+        　　　　　　"jquery": "jquery-1.10.1.min"
     　　　　}
 
 　　});
