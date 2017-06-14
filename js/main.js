@@ -7,5 +7,5 @@ require.config({
 
 　　});
 require(['jquery'], function ($) {
-    $('mian').text("Hello World" )
+   $('main').html('Hello World !')
 });
